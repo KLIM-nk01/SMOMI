@@ -34,9 +34,7 @@ Food-101 с использованием техники обучения Transfe
 
 
 ***Визуализация случайных изображений***
-***HORIZONTAL***
-![image](https://user-images.githubusercontent.com/56519328/117630846-4799e700-b184-11eb-9451-82072fdc503e.png)
-***VERTICAL***
+![image](https://user-images.githubusercontent.com/56519328/117634313-6d74bb00-b187-11eb-9305-279f6fa38149.png)
 
 ***Анализ полученных результатов***
 Анализируя полученные данные, можно утверждать что оптимальным параметром для техник аугментации данных: a. Случайное горизонтальное и вертикальное отображение, является параметр mode=Horizontal, так как с этим параметром достигается наибольная точность равная 67,97% и наименшее значение функции потерь, равное 1.206
@@ -52,9 +50,8 @@ Food-101 с использованием техники обучения Transfe
 ![image](https://user-images.githubusercontent.com/56519328/117621491-57143280-b17a-11eb-84a7-b860092158a4.png)
 
 
-***Визуализация случайных изображений (RandonCrop_300*250)***
+***Визуализация случайных изображений (RandonCrop_300_250)***
 ![image](https://user-images.githubusercontent.com/56519328/117630514-f0941200-b183-11eb-9e7d-5d152de596b7.png)
-![image](https://user-images.githubusercontent.com/56519328/117630536-f8ec4d00-b183-11eb-98e1-a194c5c2fce2.png)
 ![image](https://user-images.githubusercontent.com/56519328/117630562-ff7ac480-b183-11eb-8990-8e532e43edef.png)
 
 
@@ -72,6 +69,7 @@ Food-101 с использованием техники обучения Transfe
 ![image](https://user-images.githubusercontent.com/56519328/117623897-fe926480-b17c-11eb-988a-765ccb741958.png)
 
 ***Визуализация случайных изображений***
+![image](https://user-images.githubusercontent.com/56519328/117634703-dd834100-b187-11eb-9462-c7d48ab91c16.png)
 
 
 ***Анализ полученных результатов***
@@ -92,6 +90,7 @@ Food-101 с использованием техники обучения Transfe
 ![image](https://user-images.githubusercontent.com/56519328/117626378-b6287600-b17f-11eb-8226-528ea8d4c142.png)
 
 ***Визуализация случайных изображений***
+![Uploading image.png…]()
 
 
 ***Анализ полученных результатов***
